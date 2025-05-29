@@ -1,0 +1,12 @@
+.container{
+    border: 5px dotted orange;
+}
+.col {
+    border: 2px solid red;
+}
+.container {
+    border: 10px dashed purple;
+}
+.container-fluid {
+    border: 10px dashed blue;
+}

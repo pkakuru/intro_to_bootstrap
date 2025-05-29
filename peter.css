@@ -1,0 +1,15 @@
+#change {
+    background-color: yellow;
+    border-radius: 30px;
+    padding: 50px;
+    margin: 40px;
+    border-color: red;
+}
+#badges_heading {
+    background-color: aqua;
+    text-emphasis-color: blue;
+}
+
+.body{
+    margin: 50px;
+}
